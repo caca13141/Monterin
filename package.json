@@ -1,0 +1,19 @@
+{
+  "name": "ethereal-luster",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev:all": "turbo run dev",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "prettier": "^3.0.0"
+  },
+  "packageManager": "pnpm@8.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

@@ -1,0 +1,9 @@
+/Users/raphaelmaksoud/Downloads/jewerly website/ethereal-luster/target/debug/deps/utf8_iter-a16818067ba4f5b3.d: /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/lib.rs /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/indices.rs /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/report.rs
+
+/Users/raphaelmaksoud/Downloads/jewerly website/ethereal-luster/target/debug/deps/libutf8_iter-a16818067ba4f5b3.rlib: /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/lib.rs /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/indices.rs /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/report.rs
+
+/Users/raphaelmaksoud/Downloads/jewerly website/ethereal-luster/target/debug/deps/libutf8_iter-a16818067ba4f5b3.rmeta: /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/lib.rs /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/indices.rs /Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/report.rs
+
+/Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/lib.rs:
+/Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/indices.rs:
+/Users/raphaelmaksoud/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8_iter-1.0.4/src/report.rs:

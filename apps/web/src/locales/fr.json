@@ -1,0 +1,378 @@
+{
+    "nav": {
+        "maison": "Maison",
+        "origins": "Origines",
+        "education": "Éducation",
+        "atelier": "L'Atelier",
+        "collections": "Collections",
+        "contact": "Contact",
+        "vault": "Coffre",
+        "appointments": "Prendre Rendez-vous",
+        "services": "Soins & Services"
+    },
+    "hero": {
+        "established": "Est. 2026 • Montréal",
+        "title": "MONTÉRIN",
+        "tagline": "Haute Joaillerie au-delà du temps.",
+        "subtitle": "Diamants d'héritage pour une élite exigeante.",
+        "cta": "Découvrir la Maison"
+    },
+    "about": {
+        "title": "Notre Philosophie",
+        "heading": "L'Art de l'Excellence",
+        "description": "Montérin incarne l'héritage séculaire de la haute joaillerie. Chaque création est l'aboutissement d'un savoir-faire exceptionnel, alliant tradition intemporelle et vision contemporaine.",
+        "values": {
+            "savoir": {
+                "title": "Savoir-Faire",
+                "description": "Expertise artisanale transmise de génération en génération, au service de créations uniques."
+            },
+            "provenance": {
+                "title": "Provenance",
+                "description": "Traçabilité et certification d'origine impeccables pour chaque pierre précieuse."
+            },
+            "bespoke": {
+                "title": "Sur-Mesure",
+                "description": "Pièces personnalisées conçues en étroite collaboration avec nos maîtres-joailliers."
+            }
+        }
+    },
+    "testimonials": {
+        "title": "Témoignages Clients",
+        "heading": "Excellence de Confiance",
+        "subtitle": "La satisfaction de nos clients témoigne de notre engagement envers la qualité et le service exceptionnels.",
+        "trustBadge": "100+ Clients Satisfaits • Garantie à Vie • Diamants Certifiés"
+    },
+    "newsletter": {
+        "heading": "Rejoignez le Cercle Privé",
+        "description": "Recevez des mises à jour exclusives sur les nouvelles collections, événements privés et accès privilégié à nos créations exceptionnelles.",
+        "placeholder": "Entrez votre courriel",
+        "button": "S'inscrire",
+        "subscribed": "Inscrit",
+        "success": "Bienvenue au Cercle Privé",
+        "privacy": "Votre vie privée est garantie • Désabonnement en tout temps"
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "heading": "Nous Joindre",
+        "description": "Notre équipe est disponible pour vous assister avec des commandes sur-mesure, rendez-vous privés et toutes questions concernant nos créations exceptionnelles.",
+        "atelier": "Atelier Montréal",
+        "email": "Courriel",
+        "hours": "Sur Rendez-vous Uniquement",
+        "hoursDetail": "Lundi - Samedi",
+        "privateAppointments": "Rendez-vous Privés",
+        "appointmentDescription": "Découvrez notre collection dans un cadre intime et personnalisé à notre atelier de Montréal.",
+        "bookAppointment": "Prendre Rendez-vous",
+        "location": "Basé à Montréal",
+        "locationDescription": "Au service des clients à travers le Canada et à l'international. Visionnements privés disponibles sur rendez-vous.",
+        "form": {
+            "name": "Nom Complet",
+            "email": "Adresse Courriel",
+            "phone": "Numéro de Téléphone",
+            "subject": "Sujet",
+            "message": "Message",
+            "send": "Envoyer",
+            "sending": "Envoi en cours...",
+            "thankYou": "Merci",
+            "confirmation": "Nous vous contacterons dans les 24 heures.",
+            "subjects": {
+                "general": "Demande Générale",
+                "bespoke": "Création Sur-Mesure",
+                "appointment": "Rendez-vous Privé",
+                "collection": "Information Collection",
+                "services": "Soins & Services"
+            }
+        }
+    },
+    "education": {
+        "title": "Éducation Diamants",
+        "intro": {
+            "subtitle": "Éducation Diamants",
+            "heading": "Comprendre Votre Diamant",
+            "description": "Tous les diamants ne sont pas créés égaux. Laissez-nous vous guider à travers les connaissances essentielles."
+        },
+        "labVsNatural": {
+            "subtitle": "L'Origine",
+            "heading": "Cultivé vs Naturel",
+            "description": "Les deux sont de vrais diamants avec des propriétés identiques. La différence? L'un se forme naturellement sur des milliards d'années, l'autre est cultivé en semaines par la technologie."
+        },
+        "lab": {
+            "subtitle": "Cultivé",
+            "heading": "Science Moderne",
+            "points": [
+                "Identique aux diamants naturels",
+                "Créé en 2-4 semaines",
+                "40-60% plus abordable",
+                "Impact environnemental minimal",
+                "Certifié par GIA & IGI"
+            ]
+        },
+        "natural": {
+            "subtitle": "Naturel",
+            "heading": "Chef-d'Œuvre Terrestre",
+            "points": [
+                "Formé sur des milliards d'années",
+                "Inclusions uniques (empreintes)",
+                "Valeur d'héritage traditionnelle",
+                "Provenance certifiée",
+                "Options d'investissement"
+            ]
+        },
+        "fourCs": {
+            "subtitle": "Standards de Qualité",
+            "heading": "Les 4 C",
+            "cut": "Taille",
+            "cutDesc": "Brillance & feu",
+            "clarity": "Pureté",
+            "clarityDesc": "Pureté interne",
+            "color": "Couleur",
+            "colorDesc": "Grade D-Z",
+            "carat": "Carat",
+            "caratDesc": "Poids & taille"
+        },
+        "certification": {
+            "subtitle": "Confiance & Authenticité",
+            "heading": "Chaque Diamant Certifié",
+            "description": "Tous nos diamants sont accompagnés d'une certification indépendante GIA ou IGI, garantissant transparence et tranquillité d'esprit.",
+            "cta": "Créez Votre Diamant"
+        }
+    },
+    "heritage": {
+        "subtitle": "Notre Histoire",
+        "heading": "Héritage",
+        "philosophy": {
+            "heading": "Un Nouveau Chapitre d'Excellence Montréalaise",
+            "p1": "Montérin est né d'une vision singulière : unir des siècles de savoir-faire européen avec une sensibilité design nord-américaine contemporaine.",
+            "p2": "Chaque pièce que nous créons témoigne de cette philosophie — honorant la tradition tout en embrassant l'innovation, créant non seulement des bijoux, mais des héritages."
+        },
+        "timeline": {
+            "heading": "Notre Parcours",
+            "2026_1": {
+                "title": "Le Début",
+                "description": "Montérin est fondé à Montréal avec une vision de redéfinir la haute joaillerie par un savoir-faire exceptionnel et un design intemporel."
+            },
+            "2026_2": {
+                "title": "Premier Atelier",
+                "description": "Ouverture de notre atelier principal à Montréal, apportant le savoir-faire européen en Amérique du Nord."
+            },
+            "2027": {
+                "title": "Collection Sur-Mesure",
+                "description": "Lancement de notre programme signature sur-mesure, offrant une personnalisation sans précédent."
+            },
+            "future": {
+                "title": "Héritage Mondial",
+                "description": "Poursuivant notre mission de créer des héritages transcendant les générations."
+            }
+        },
+        "values": {
+            "heading": "Nos Valeurs",
+            "excellence": {
+                "title": "Excellence",
+                "description": "Chaque pièce répond à des normes de qualité rigoureuses dépassant les repères de l'industrie."
+            },
+            "integrity": {
+                "title": "Intégrité",
+                "description": "Transparence complète dans l'approvisionnement, les prix et le processus de création."
+            },
+            "artistry": {
+                "title": "Maîtrise",
+                "description": "Célébrer le toucher humain à l'ère de la production de masse."
+            }
+        },
+        "cta": {
+            "heading": "Faites Partie de Notre Histoire",
+            "description": "Visitez notre atelier de Montréal et découvrez la différence Montérin.",
+            "button": "Planifier une Visite"
+        }
+    },
+    "services": {
+        "title": "Soins & Services",
+        "heading": "Soins à Vie",
+        "description": "Votre création exceptionnelle mérite un soin exceptionnel. Nos services complets assurent que votre héritage maintienne son éclat pour les générations.",
+        "cleaning": {
+            "title": "Nettoyage Professionnel",
+            "description": "Nettoyage et polissage ultrasoniques gratuits pour restaurer l'éclat original.",
+            "details": [
+                "Bain ultrasonique",
+                "Nettoyage vapeur",
+                "Polissage manuel",
+                "Service gratuit"
+            ]
+        },
+        "repair": {
+            "title": "Réparation & Restauration",
+            "description": "Services de restauration experts par nos maîtres-artisans à Montréal.",
+            "details": [
+                "Renforcement griffes",
+                "Remplacement pierres",
+                "Ajustement bagues",
+                "Renforcement serti"
+            ]
+        },
+        "certification": {
+            "title": "Certification & Évaluation",
+            "description": "Documentation officielle et évaluations mises à jour pour fins d'assurance.",
+            "details": [
+                "Certification gemmologique",
+                "Évaluations assurance",
+                "Vérification authenticité",
+                "Documentation détaillée"
+            ]
+        },
+        "warranty": {
+            "title": "Garantie à Vie",
+            "description": "Couverture complète sur le savoir-faire pour la durée de la pièce.",
+            "details": [
+                "Défauts fabrication",
+                "Intégrité serti",
+                "Qualité métal",
+                "Couverture à vie"
+            ]
+        },
+        "careGuide": {
+            "heading": "Guide d'Entretien Diamants",
+            "daily": {
+                "title": "Soins Quotidiens",
+                "points": [
+                    "Retirer bijoux lors d'activités physiques",
+                    "Ranger pièces séparément pour éviter rayures",
+                    "Éviter exposition produits chimiques",
+                    "Nettoyer régulièrement avec savon doux"
+                ]
+            },
+            "professional": {
+                "title": "Maintenance Professionnelle",
+                "points": [
+                    "Inspection annuelle recommandée",
+                    "Resserrage griffes tous les 2-3 ans",
+                    "Nettoyage professionnel deux fois par an",
+                    "Évaluation assurance tous les 3-5 ans"
+                ]
+            }
+        },
+        "cta": {
+            "heading": "Planifier un Service",
+            "description": "Visitez notre atelier de Montréal ou organisez une collecte gratuite par coursier.",
+            "contact": "Contactez-nous",
+            "appointment": "Prendre Rendez-vous"
+        }
+    },
+    "faq": {
+        "title": "Questions & Réponses",
+        "heading": "Foire Aux Questions",
+        "description": "Questions courantes sur notre processus sur-mesure, diamants et services. Vous ne trouvez pas votre question?",
+        "contactLink": "Contactez-nous",
+        "stillHaveQuestions": "Vous avez encore des questions?",
+        "teamAvailable": "Notre équipe est disponible pour toute question.",
+        "contactUs": "Contactez-nous"
+    },
+    "appointments": {
+        "title": "Expérience Privée",
+        "heading": "Prendre Rendez-vous",
+        "description": "Découvrez notre collection dans un cadre intime à notre atelier de Montréal. Chaque rendez-vous inclut un temps dédié avec nos maîtres-joailliers.",
+        "services": {
+            "consultation": {
+                "title": "Consultation",
+                "description": "Explorez notre collection et discutez de votre vision avec nos experts.",
+                "duration": "60 minutes"
+            },
+            "bespoke": {
+                "title": "Design Sur-Mesure",
+                "description": "Commencez votre parcours de création personnalisée avec nos maîtres-joailliers.",
+                "duration": "90 minutes"
+            },
+            "viewing": {
+                "title": "Visionnement Privé",
+                "description": "Découvrez nos pièces exceptionnelles en toute intimité.",
+                "duration": "60-120 minutes"
+            }
+        },
+        "form": {
+            "name": "Nom Complet",
+            "email": "Adresse Courriel",
+            "phone": "Numéro de Téléphone",
+            "date": "Date Préférée",
+            "time": "Heure Préférée",
+            "service": "Type de Service",
+            "notes": "Notes Additionnelles",
+            "notesPlaceholder": "Parlez-nous de vos préférences, budget estimé, ou pièces spécifiques qui vous intéressent...",
+            "submit": "Demander Rendez-vous",
+            "submitting": "Réservation...",
+            "serviceTypes": {
+                "consultation": "Consultation Générale",
+                "bespoke": "Session Design Sur-Mesure",
+                "viewing": "Visionnement Privé",
+                "service": "Service & Réparation"
+            },
+            "timeSelect": "Sélectionner l'heure",
+            "disclaimer": "Les rendez-vous sont soumis à disponibilité. Nous confirmerons votre horaire préféré dans les 24 heures.",
+            "success": {
+                "title": "Rendez-vous Demandé",
+                "message": "Nous avons reçu votre demande et confirmerons par courriel dans les 24 heures.",
+                "checkEmail": "Vérifiez votre boîte de réception pour les détails de confirmation."
+            }
+        }
+    },
+    "press": {
+        "title": "Presse & Médias",
+        "heading": "Dans la Presse",
+        "description": "Montérin à la une. Découvrez nos dernières parutions, distinctions et couvertures médiatiques.",
+        "downloadKit": "Télécharger le Kit Média",
+        "inquiries": "Demandes Presse",
+        "featured": "Vu Dans",
+        "articles": {
+            "vogue": {
+                "title": "L'Avenir du Luxe Canadien",
+                "publication": "Vogue Scandanavia",
+                "date": "Octobre 2026",
+                "excerpt": "Montérin redéfinit ce que signifie être une marque patrimoniale à l'ère moderne, mêlant l'âme artistique de Montréal à la précision de Genève."
+            },
+            "elle": {
+                "title": "Diamants pour la Nouvelle Ère",
+                "publication": "ELLE Canada",
+                "date": "Septembre 2026",
+                "excerpt": "Un regard à l'intérieur de l'atelier qui change notre conception de la joaillerie sur-mesure. La durabilité rencontre le luxe sans compromis."
+            },
+            "forbes": {
+                "title": "Grade d'Investissement : L'Ascension de Montérin",
+                "publication": "Forbes Luxury",
+                "date": "Août 2026",
+                "excerpt": "Pourquoi les collectionneurs se tournent vers cette maison montréalaise pour leur prochaine acquisition majeure."
+            }
+        },
+        "contact": {
+            "heading": "Contact Média",
+            "description": "Pour toute demande de presse, demandes d'images et opportunités d'entrevue.",
+            "email": "press@monterin.com"
+        }
+    },
+    "footer": {
+        "tagline": "Diamants d'héritage pour les générations à venir.",
+        "links": {
+            "maison": {
+                "title": "Maison",
+                "about": "À Propos",
+                "atelier": "L'Atelier",
+                "savoirFaire": "Savoir-Faire",
+                "sustainability": "Durabilité",
+                "press": "Presse & Médias"
+            },
+            "services": {
+                "title": "Services",
+                "contact": "Contactez-nous",
+                "shipping": "Livraison & Retours",
+                "sizeGuide": "Guide des Tailles",
+                "appointments": "Prendre Rendez-vous"
+            }
+        },
+        "newsletter": {
+            "title": "Infolettre",
+            "placeholder": "Adresse Courriel",
+            "button": "S'inscrire"
+        },
+        "legal": {
+            "privacy": "Politique de Confidentialité",
+            "terms": "Conditions d'Utilisation",
+            "rights": "Tous droits réservés."
+        }
+    }
+}

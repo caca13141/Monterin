@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "apps/api",
+    "packages/wasm-gem"
+]
+resolver = "2"

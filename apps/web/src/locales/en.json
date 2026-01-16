@@ -1,0 +1,379 @@
+{
+    "nav": {
+        "maison": "Maison",
+        "origins": "Origins",
+        "education": "Education",
+        "atelier": "The Atelier",
+        "collections": "Collections",
+        "contact": "Contact",
+        "vault": "Vault",
+        "appointments": "Book Appointment",
+        "services": "Care & Services"
+    },
+    "hero": {
+        "established": "Est. 2026 • Montreal",
+        "title": "MONTÉRIN",
+        "tagline": "Haute Joaillerie beyond time.",
+        "subtitle": "Heirloom diamonds for the discerning few.",
+        "cta": "Discover the Maison"
+    },
+    "about": {
+        "title": "Our Philosophy",
+        "heading": "The Art of Excellence",
+        "description": "Montérin embodies the centuries-old heritage of haute joaillerie. Each creation is the culmination of exceptional savoir-faire, blending time-honored tradition with contemporary vision.",
+        "values": {
+            "savoir": {
+                "title": "Savoir-Faire",
+                "description": "Artisanal expertise passed down through generations, in service of unique creations."
+            },
+            "provenance": {
+                "title": "Provenance",
+                "description": "Impeccable traceability and certification of origin for every precious stone."
+            },
+            "bespoke": {
+                "title": "Bespoke",
+                "description": "Custom pieces designed in close collaboration with our master jewelers."
+            }
+        }
+    },
+    "testimonials": {
+        "title": "Client Testimonials",
+        "heading": "Trusted Excellence",
+        "subtitle": "Our clients' satisfaction speaks to our commitment to exceptional quality and service.",
+        "trustBadge": "100+ Satisfied Clients • Lifetime Warranty • Certified Diamonds"
+    },
+    "newsletter": {
+        "heading": "Join the Inner Circle",
+        "description": "Receive exclusive updates on new collections, private events, and privileged access to our exceptional creations.",
+        "placeholder": "Enter your email",
+        "button": "Subscribe",
+        "subscribed": "Subscribed",
+        "success": "Welcome to the Inner Circle",
+        "privacy": "Your privacy is guaranteed • Unsubscribe anytime"
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "heading": "Contact Us",
+        "description": "Our team is available to assist you with bespoke commissions, private appointments, and all inquiries regarding our exceptional creations.",
+        "atelier": "Montreal Atelier",
+        "email": "Email",
+        "responseTime": "We respond within 24 hours",
+        "hours": "By Appointment Only",
+        "hoursDetail": "Monday - Saturday",
+        "privateAppointments": "Private Appointments",
+        "appointmentDescription": "Experience our collection in an intimate, personalized setting at our Montreal atelier.",
+        "bookAppointment": "Book Appointment",
+        "location": "Based in Montreal",
+        "locationDescription": "Serving clients across Canada and internationally. Private viewings available by appointment.",
+        "form": {
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "subject": "Subject",
+            "message": "Message",
+            "send": "Send Message",
+            "sending": "Sending...",
+            "thankYou": "Thank You",
+            "confirmation": "We'll be in touch within 24 hours.",
+            "subjects": {
+                "general": "General Inquiry",
+                "bespoke": "Bespoke Commission",
+                "appointment": "Private Appointment",
+                "collection": "Collection Information",
+                "services": "Care & Services"
+            }
+        }
+    },
+    "education": {
+        "title": "Diamond Education",
+        "intro": {
+            "subtitle": "Diamond Education",
+            "heading": "Understanding Your Diamond",
+            "description": "Not all diamonds are created equal. Let us guide you through the essential knowledge every client should have."
+        },
+        "labVsNatural": {
+            "subtitle": "The Origin",
+            "heading": "Lab-Grown vs Natural",
+            "description": "Both are real diamonds with identical physical, chemical, and optical properties. The difference? One forms in nature over billions of years, the other is cultivated in weeks using advanced technology."
+        },
+        "lab": {
+            "subtitle": "Lab-Grown",
+            "heading": "Modern Science",
+            "points": [
+                "Identical to natural diamonds",
+                "Created in 2-4 weeks",
+                "40-60% more affordable",
+                "Minimal environmental impact",
+                "Certified by GIA & IGI"
+            ]
+        },
+        "natural": {
+            "subtitle": "Natural",
+            "heading": "Earth's Masterpiece",
+            "points": [
+                "Formed over billions of years",
+                "Unique inclusions (fingerprints)",
+                "Traditional heirloom value",
+                "Certified provenance",
+                "Investment-grade options"
+            ]
+        },
+        "fourCs": {
+            "subtitle": "Quality Standards",
+            "heading": "The 4 Cs",
+            "cut": "Cut",
+            "cutDesc": "Brilliance & fire",
+            "clarity": "Clarity",
+            "clarityDesc": "Internal purity",
+            "color": "Color",
+            "colorDesc": "Grade D-Z",
+            "carat": "Carat",
+            "caratDesc": "Weight & size"
+        },
+        "certification": {
+            "subtitle": "Trust & Authenticity",
+            "heading": "Every Diamond Certified",
+            "description": "All our diamonds come with independent certification from GIA or IGI, ensuring transparency and peace of mind.",
+            "cta": "Design Your Diamond"
+        }
+    },
+    "heritage": {
+        "subtitle": "Our Story",
+        "heading": "Heritage",
+        "philosophy": {
+            "heading": "A New Chapter of Montreal Excellence",
+            "p1": "Montérin was born from a singular vision: to unite centuries of European craftsmanship with contemporary North American design sensibility.",
+            "p2": "Every piece we create is a testament to this philosophy — honoring tradition while embracing innovation, creating not just jewelry, but heirlooms."
+        },
+        "timeline": {
+            "heading": "Our Journey",
+            "2026_1": {
+                "title": "The Beginning",
+                "description": "Montérin is founded in Montreal with a vision to redefine haute joaillerie through exceptional craftsmanship and timeless design."
+            },
+            "2026_2": {
+                "title": "First Atelier",
+                "description": "Opening of our main atelier in Montreal, bringing European know-how to North America."
+            },
+            "2027": {
+                "title": "Bespoke Collection",
+                "description": "Launch of our signature bespoke program, offering unprecedented personalization."
+            },
+            "future": {
+                "title": "Global Legacy",
+                "description": "Continuing our mission to create heirlooms that transcend generations."
+            }
+        },
+        "values": {
+            "heading": "Our Values",
+            "excellence": {
+                "title": "Excellence",
+                "description": "Every piece meets rigorous quality standards exceeding industry benchmarks."
+            },
+            "integrity": {
+                "title": "Integrity",
+                "description": "Complete transparency in sourcing, pricing, and the creation process."
+            },
+            "artistry": {
+                "title": "Mastery",
+                "description": "Celebrating the human touch in an age of mass production."
+            }
+        },
+        "cta": {
+            "heading": "Be Part of Our Story",
+            "description": "Visit our Montreal atelier and discover the Montérin difference.",
+            "button": "Plan a Visit"
+        }
+    },
+    "services": {
+        "title": "Care & Services",
+        "heading": "Lifetime Care",
+        "description": "Your exceptional creation deserves exceptional care. Our comprehensive services ensure your heirloom maintains its brilliance for generations.",
+        "cleaning": {
+            "title": "Professional Cleaning",
+            "description": "Complimentary ultrasonic cleaning and polishing to restore original brilliance.",
+            "details": [
+                "Ultrasonic bath",
+                "Steam cleaning",
+                "Manual polishing",
+                "Complimentary service"
+            ]
+        },
+        "repair": {
+            "title": "Repair & Restoration",
+            "description": "Expert restoration services by our master craftsmen in Montreal.",
+            "details": [
+                "Prong tightening",
+                "Stone replacement",
+                "Ring resizing",
+                "Setting reinforcement"
+            ]
+        },
+        "certification": {
+            "title": "Certification & Appraisal",
+            "description": "Official documentation and updated appraisals for insurance purposes.",
+            "details": [
+                "Gemological certification",
+                "Insurance appraisals",
+                "Authenticity verification",
+                "Detailed documentation"
+            ]
+        },
+        "warranty": {
+            "title": "Lifetime Warranty",
+            "description": "Comprehensive coverage on craftsmanship for the life of the piece.",
+            "details": [
+                "Manufacturing defects",
+                "Setting integrity",
+                "Metal quality",
+                "Lifetime coverage"
+            ]
+        },
+        "careGuide": {
+            "heading": "Diamond Care Guide",
+            "daily": {
+                "title": "Daily Care",
+                "points": [
+                    "Remove jewelry during physical activities",
+                    "Store pieces separately to avoid scratches",
+                    "Avoid exposure to harsh chemicals",
+                    "Clean regularly with mild soap"
+                ]
+            },
+            "professional": {
+                "title": "Professional Maintenance",
+                "points": [
+                    "Annual inspection recommended",
+                    "Prong tightening every 2-3 years",
+                    "Professional cleaning twice a year",
+                    "Insurance appraisal every 3-5 years"
+                ]
+            }
+        },
+        "cta": {
+            "heading": "Plan a Service",
+            "description": "Visit our Montreal atelier or arrange a complimentary courier pickup.",
+            "contact": "Contact Us",
+            "appointment": "Book Appointment"
+        }
+    },
+    "faq": {
+        "title": "Q & A",
+        "heading": "Frequently Asked Questions",
+        "description": "Common questions about our bespoke process, diamonds, and services. Don't find your question?",
+        "contactLink": "Contact Us",
+        "stillHaveQuestions": "Still have questions?",
+        "teamAvailable": "Our team is available for any questions.",
+        "contactUs": "Contact Us"
+    },
+    "appointments": {
+        "title": "Private Experience",
+        "heading": "Book Appointment",
+        "description": "Discover our collection in an intimate setting at our Montreal atelier. Each appointment includes dedicated time with our master jewelers.",
+        "services": {
+            "consultation": {
+                "title": "Consultation",
+                "description": "Explore our collection and discuss your vision with our experts.",
+                "duration": "60 minutes"
+            },
+            "bespoke": {
+                "title": "Bespoke Design",
+                "description": "Start your personalized creation journey with our master jewelers.",
+                "duration": "90 minutes"
+            },
+            "viewing": {
+                "title": "Private Viewing",
+                "description": "Discover our exceptional pieces in complete privacy.",
+                "duration": "60-120 minutes"
+            }
+        },
+        "form": {
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "date": "Preferred Date",
+            "time": "Preferred Time",
+            "service": "Service Type",
+            "notes": "Additional Notes",
+            "notesPlaceholder": "Tell us about your preferences, estimated budget, or specific pieces you are interested in...",
+            "submit": "Request Appointment",
+            "submitting": "Booking...",
+            "serviceTypes": {
+                "consultation": "General Consultation",
+                "bespoke": "Bespoke Design Session",
+                "viewing": "Private Viewing",
+                "service": "Service & Repair"
+            },
+            "timeSelect": "Select time",
+            "disclaimer": "Appointments are subject to availability. We will confirm your preferred time within 24 hours.",
+            "success": {
+                "title": "Appointment Requested",
+                "message": "We have received your request and will confirm by email within 24 hours.",
+                "checkEmail": "Check your inbox for confirmation details."
+            }
+        }
+    },
+    "press": {
+        "title": "Press & Media",
+        "heading": "In the Press",
+        "description": "Montérin in the headlines. Discover our latest features, awards, and media coverage.",
+        "downloadKit": "Download Media Kit",
+        "inquiries": "Press Inquiries",
+        "featured": "Featured In",
+        "articles": {
+            "vogue": {
+                "title": "The Future of Canadian Luxury",
+                "publication": "Vogue Scandanavia",
+                "date": "October 2026",
+                "excerpt": "Montérin is redefining what it means to be a heritage brand in the modern age, blending Montreal's artistic soul with Geneva's precision."
+            },
+            "elle": {
+                "title": "Diamonds for the New Era",
+                "publication": "ELLE Canada",
+                "date": "September 2026",
+                "excerpt": "A look inside the atelier changing how we think about bespoke jewelry. Sustainability meets uncompromising luxury."
+            },
+            "forbes": {
+                "title": "Investment Grade: The Rise of Montérin",
+                "publication": "Forbes Luxury",
+                "date": "August 2026",
+                "excerpt": "Why collectors are turning their eyes to this Montreal-based maison for their next significant acquisition."
+            }
+        },
+        "contact": {
+            "heading": "Media Contact",
+            "description": "For all press inquiries, image requests, and interview opportunities.",
+            "email": "press@monterin.com"
+        }
+    },
+    "footer": {
+        "tagline": "Heirloom diamonds for generations to come.",
+        "links": {
+            "maison": {
+                "title": "Maison",
+                "about": "About Us",
+                "atelier": "The Atelier",
+                "savoirFaire": "Savoir-Faire",
+                "sustainability": "Sustainability",
+                "press": "Press & Media"
+            },
+            "services": {
+                "title": "Services",
+                "contact": "Contact Us",
+                "shipping": "Shipping & Returns",
+                "sizeGuide": "Size Guide",
+                "appointments": "Book an Appointment"
+            }
+        },
+        "newsletter": {
+            "title": "Newsletter",
+            "placeholder": "Email Address",
+            "button": "Subscribe"
+        },
+        "legal": {
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service",
+            "rights": "All rights reserved."
+        }
+    }
+}

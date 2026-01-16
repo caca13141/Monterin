@@ -1,0 +1,1 @@
+/Users/raphaelmaksoud/Downloads/jewerly\ website/ethereal-luster/target/wasm32-unknown-unknown/release/libwasm_gem.rlib: /Users/raphaelmaksoud/Downloads/jewerly\ website/ethereal-luster/packages/wasm-gem/src/lib.rs
