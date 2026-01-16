@@ -22,6 +22,9 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   productionBrowserSourceMaps: false,
+  output: "standalone",
+  compress: true,
+  poweredByHeader: false,
 };
 
 export default nextConfig;
