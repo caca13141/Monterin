@@ -25,6 +25,7 @@ const nextConfig = {
   output: "standalone",
   compress: true,
   poweredByHeader: false,
+  transpilePackages: ["@ethereal-luster/ui"],
 };
 
 export default nextConfig;
