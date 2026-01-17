@@ -29,18 +29,19 @@ export const products: Product[] = [
     },
     {
         id: "2",
-        slug: "eternal-band",
-        name: "Eternal Eternity Band",
-        price: "$12,500",
-        description: "An unbroken circle of brilliance. Perfectly matched emerald-cut diamonds encircle the finger, symbolizing unending commitment.",
+        slug: "eternal-tennis",
+        name: "Eternal Tennis Bracelet",
+        price: "$18,500",
+        description: "A timeless cascade of brilliance around your wrist. Perfectly matched round brilliant diamonds flow seamlessly, capturing light with every movement.",
         details: [
-            "Total Weight: 4.5 Carats",
-            "Emerald Cut Diamonds",
-            "Color: E-F",
-            "Clarity: VVS",
-            "18k White Gold"
+            "Total Weight: 6.5 Carats",
+            "Round Brilliant Diamonds",
+            "Color: D-E",
+            "Clarity: VVS1-VVS2",
+            "18k White Gold",
+            "Box Clasp with Safety"
         ],
-        image: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=2070&auto=format&fit=crop",
+        image: "/products/eternal-tennis.png",
         video: "https://cdn.coverr.co/videos/coverr-diamond-reflection-4560/1080p.mp4",
         modelPath: "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF-Binary/Box.glb"
     },
